@@ -8,12 +8,6 @@ The primary goal is to offer an easy way to install and manage the cutting-edge 
 - **Latest Emacs Unstable**: Access the latest development versions of Emacs.
 - **Simple Installation**: Easily integrate Emacs into your Nix environment with a single command.
 
-## Prerequisites
-
-Ensure you have Nix installed with flake support.
-If you're new to Nix or unsure about flakes, check out the [Nix Flake Manual](https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-flake.html)
-for guidance on getting started.
-
 ## Usage
 
 ```bash
